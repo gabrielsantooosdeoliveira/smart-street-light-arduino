@@ -12,7 +12,7 @@ The main goal is to demonstrate how automation can help optimize energy consumpt
 
 ## Project Preview
 
-![Smart Street Light Prototype](images/Captura_de_tela_2026-11-19_102356.png‎)
+![Smart Street Light Prototype](images/project-setup.jpg)
 
 ## Components
 
